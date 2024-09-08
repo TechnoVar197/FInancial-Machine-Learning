@@ -1,0 +1,51 @@
+No,Expense Name,Amount,Date,Description,Category Name
+0,Surf Bar,10,2023-07-22T14:56:04.154,,Necessities
+1,Cinthol Soap,50,2023-07-17T19:58:48.651,,Necessities
+2,JioMart,329,2023-07-18T14:58:05.005,Soaps + toothpaste,Necessities
+3,Abhay BDay Cake ,41,2023-07-24T20:15:09.570,,Default
+4,Notebooks ,220,2023-07-26T21:13:18.446,6pc ,Necessities
+5,Rolls,110,2023-07-26T21:13:44.882,,Food
+6,Hide n Seek ,10,2023-07-27T17:21:52.462,,Snacks
+7,Agarbatti,15,2023-07-30T20:53:43.963,,Necessities
+8,Biscuit,10,2023-07-31T16:56:44.536,,Snacks
+9,Water bottle,20,2023-08-02T07:15:54.324,,Food
+10,Cotton,30,2023-08-03T17:49:54.990,,Necessities
+11,Soda ,15,2023-08-04T20:06:20.151,,Food
+12,Dinner ,105,2023-08-07T20:52:27.077,,Food
+13,Lays,20,2023-08-10T03:19:21.317,,Snacks
+14,Dinner,100,2023-08-16T21:15:38.610,Fried Rice,Food
+15,Lays,20,2023-08-16T21:15:56.894,,Snacks
+16,Amazon,386,2023-08-23T08:41:31.105,,Necessities
+17,Chocolate,30,2023-08-26T21:39:40.280,,Snacks
+18,Pizza,115,2023-08-30T21:02:27.407,,Food
+19,Roll,50,2023-08-31T14:59:54.101,,Food
+20,chocolate + surf bar ,35,2023-09-01T19:51:25.551,,Necessities
+21,biscuit,20,2023-09-03T22:15:36.223,,Snacks
+22, train tickets,2426,2023-09-05T13:17:25.570,,travel
+23,Movie ticket,240,2023-09-05T13:20:29.675,,out
+24,juice,10,2023-09-08T17:59:35.173,,Snacks
+25,lock,55,2023-09-08T17:59:48.088,,Necessities
+26,print,13,2023-09-08T17:59:59.859,,Necessities
+27,Transcript,450,2023-09-14T21:02:56.569,,Necessities
+28,Movie Night out,145,2023-09-09T20:05:52.101,,out
+29,Metro,34,2023-09-09T22:05:48.488,,out
+30,Surf bar,20,2023-09-14T17:07:52.586,,Necessities
+31,printout,6,2023-09-16T13:07:35.994,,Necessities
+32,Chocolate,30,2023-09-15T17:08:55.491,,Snacks
+33,Lays,20,2023-09-13T14:08:46.261,,Snacks
+34,haircut,150,2023-08-12T13:58:25.319,,Necessities
+35,Haircut,150,2023-09-29T09:30:06.583,,Necessities
+36,Dinner @HR,130,2023-09-27T20:15:33.414,,Food
+37,Lunch @Milan,123,2023-09-21T07:30:45.448,,Food
+38,snacks,30,2023-09-20T14:50:03.855,jelly + gonemad,Snacks
+39,Train ticket ,170,2023-09-19T00:34:07.087,To bengaluru,travel
+40,Train ticket ,166,2023-09-19T19:35:01.101,To chennai,travel
+41,Dinner @ HR,167,2023-09-18T20:10:00.780,,Food
+42,Bus ticket,110,2023-09-28T19:40:09.922,to VBM Maple,travel
+43,Bus ticket,105,2023-10-03T06:10:09.746,To train station,travel
+44,Cold drink,20,2023-09-30T19:43:02.645,,out
+45,Biscuits,120,2023-10-03T08:09:40.548,,Snacks
+46,Curd,20,2023-10-05T00:51:13.180,,Food
+47,Clib Tshirt ,300,2023-10-10T21:51:32.839,,Default
+48,Roll,100,2023-10-11T19:00:58.504,,Food
+49,Chips,20,2023-10-12T16:30:24.668,,Snacks
